@@ -7,7 +7,11 @@ git add
 git commit -m ""
 git status
 
-`#0969DA`
+
+
+This site was built using [GitHub Pages](https://pages.github.com/).
+
+
 ```
 
 ## Project Notes:
