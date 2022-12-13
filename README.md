@@ -7,6 +7,7 @@ git add
 git commit -m ""
 git status
 
+`#0969DA`
 ```
 
 ## Project Notes:
